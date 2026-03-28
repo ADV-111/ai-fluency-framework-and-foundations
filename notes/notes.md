@@ -198,6 +198,9 @@ A diligence statement is a transparent acknowledgment of AI's role in your work,
 ---
 
 ## Miscellaneous
+
+> **⚠ CONTINUE HERE:** [Anthropic Academy — AI Fluency Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations/314863)
+
 Learning Outcomes:
 * A framework for thinking about AI Interaction
 * The ability to make informed decisions about when and how to engage with AI systems
